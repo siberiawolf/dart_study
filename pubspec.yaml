@@ -1,0 +1,9 @@
+name: dart_study
+version: 0.0.1
+description: >-
+  Dart 学习
+homepage: https://siberiawolf.cn
+environment:
+  sdk: '>=2.2.0 <3.0.0'
+dependencies:
+  meta: ^1.1.8
